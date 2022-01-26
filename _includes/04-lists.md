@@ -1,4 +1,4 @@
 Favourite Websites:
 
-* github
+* Github
 * Stack Overflow
